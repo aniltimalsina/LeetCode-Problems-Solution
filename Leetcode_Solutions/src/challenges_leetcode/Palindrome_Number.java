@@ -1,5 +1,12 @@
 package challenges_leetcode;
 
+/**
+ * @author "Anil Timalsina"
+ *
+ * "10/03/2022"
+ *
+ */
+
 public class Palindrome_Number {
     public boolean isPalindrome(int x) {
         String reverse = "";
